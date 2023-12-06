@@ -1,0 +1,14 @@
+{
+    "name": "lib-bd",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "mongodb": "^4.0.0"
+    },
+    "author": "Eva Victória",
+    "license": "MIT"
+}
